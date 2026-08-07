@@ -21,7 +21,7 @@ This toolkit features a centralized, color-coded terminal GUI that executes 10 d
 
 ```text
 linux_toolkit/
-├── toolkit.sh       # Main terminal UI and entry point
+├── menu.sh          # Main terminal UI and entry point
 ├── toolkit.log      # Auto-generated execution log (git-ignored)
 └── scripts/         # Directory containing the individual tool modules
     ├── backup.sh
