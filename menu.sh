@@ -9,6 +9,9 @@ CYAN='\033[0;36m'
 MAGENTA='\033[0;35m'
 NC='\033[0m'
 
+#toolkit log file path
+LOGFILE="toolkit.log"
+
 while true; do
     clear
     echo -e "${CYAN}====================================================${NC}"
